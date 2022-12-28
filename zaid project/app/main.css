@@ -1,0 +1,12 @@
+
+body{
+    background: rebeccapurple;
+    align-items: center;
+    justify-items: center;
+}
+form{
+    background-color: aquamarine;
+    align-items: center;
+    justify-items: center;
+    justify-self:center;
+}
